@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "your-command-here": "./index.js"
+    "see-landon-resume": "./index.js"
   }
 }
